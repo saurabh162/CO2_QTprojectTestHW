@@ -1,0 +1,15 @@
+QMAKE_DEFAULT_INCDIRS = \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/include/c++/6.3.1 \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/include/c++/6.3.1/arm-linux-gnueabihf \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/include/c++/6.3.1/backward \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/6.3.1/include \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/6.3.1/include-fixed \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/include \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/include
+QMAKE_DEFAULT_LIBDIRS = \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf/6.3.1 \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/lib/gcc/arm-linux-gnueabihf \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/lib/gcc \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/lib \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/lib \
+    /opt/Qt5_7_1/arm-toolchain/gcc-linaro-6.3.1-2017.02-x86_64_arm-linux-gnueabihf/arm-linux-gnueabihf/libc/usr/lib
